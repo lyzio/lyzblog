@@ -1,12 +1,23 @@
 ---
 layout: post
-title:  "Vi testar"
+title:  "Building of Thurian, The basics"
 date:   2020-08-20 11:11:11 +0100
-thumbnail: earth.jpg
+thumbnail: https://www.worldanvil.com/uploads/maps/9b3d9e34237f82ed92949f45c45ee396.jpeg
 ---
 
 # Welcome
+So first of all, i will on this blog post on the updates of the gamesetting for Genesys i'm building. The setting it self can be found here https://www.worldanvil.com/w/thurian-lyzio though it is in, and will be in Swedish the blog about the building will be in English.
+Some day, i might translate it, if i think it is worth doing. But since i started in Swedish it will remain that way. For the sake of ease.
 
-**Hello world**, this is my first Jekyll blog post.
+The first decision I made when starting out this world a few years ago, was a nice standard High-Fantasy setting that I love to play in. Though when I last year picked it up and started to continue I felt that thats not anything fun. To do what everyone else is doing. So keeping the map, and the name I started to remake everything.
 
-I hope you like it!
+## The theme?
+The theme i choose, since it has always been very dear to me, was some kind of resemblance to the ancient Greek. This is a classical era that is truly amazing in many different ways, and it's not that many settings for roleplaying games that are set in this era.
+
+## So how did the world form?
+*Lets start with that.*
+In a sea of chaos and force that flows through uncontrolled collisions there is a spark that after millenniums creates a parallel universe to all the others in the time-space continuum with a massive explosion. This explosion of an unparalleled force create a rift in time and space from which a few entities from our own universe is pulled into.
+The surrounding force starts to recognize these new entities and giving them the ability to wield the force it self to control their surroundings.
+With this power, the long lost humans of a classical civilization starts to build up a world of their on, in the same matter that they have long been familiar to. They build a sun that has one single planet in its field, a planet that to all that we know has a resemblance to earth it self regarding atmosphere and climate. The landmass is what they believe the earth looks like, and since they have just been around their local areas this is quite random.
+On the planet they start with one island, an island that also is the home of the volcano **Olympia** that holds the golden doors to the eternal plane that is their own home.
+One by one they forms races, animals and all entities that are needed in a ecosystem, entities that can worship them and give them more powers. 
