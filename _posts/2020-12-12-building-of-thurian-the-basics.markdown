@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building of Thurian, The basics"
-date:   2020-08-20 11:11:11 +0100
+date:   2020-12-12 11:11:11 +0100
 thumbnail: "https://www.worldanvil.com/uploads/maps/9b3d9e34237f82ed92949f45c45ee396.jpeg"
 ---
 
