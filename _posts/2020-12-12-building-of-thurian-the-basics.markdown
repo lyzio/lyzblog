@@ -19,11 +19,11 @@ The theme i choose, since it has always been very dear to me, was some kind of r
 ## So how did the world form?
 *Lets start with that.*
 
-In a sea of chaos and force that flows through uncontrolled collisions there is a spark that after millenniums creates a parallel universe to all the others in the time-space continuum with a massive explosion. This explosion of an unparalleled force create a rift in time and space from which a few entities from our own universe is pulled into.
+>In a sea of chaos and force that flows through uncontrolled collisions there is a spark that after millenniums creates a parallel universe to all the others in the time-space continuum with a massive explosion. This explosion of an unparalleled force create a rift in time and space from which a few entities from our own universe is pulled into.
 
-The surrounding force starts to recognize these new entities and giving them the ability to wield the force it self to control their surroundings.
+>The surrounding force starts to recognize these new entities and giving them the ability to wield the force it self to control their surroundings.
 
-With this power, the long lost humans of a classical civilization starts to build up a world of their on, in the same matter that they have long been familiar to. They build a sun that has one single planet in its field, a planet that to all that we know has a resemblance to earth it self regarding atmosphere and climate. The landmass is what they believe the earth looks like, and since they have just been around their local areas this is quite random.
+>With this power, the long lost humans of a classical civilization starts to build up a world of their on, in the same matter that they have long been familiar to. They build a sun that has one single planet in its field, a planet that to all that we know has a resemblance to earth it self regarding atmosphere and climate. The landmass is what they believe the earth looks like, and since they have just been around their local areas this is quite random.
 
-On the planet they start with one island, an island that also is the home of the volcano **Olympia** that holds the golden doors to the eternal plane that is their own home.
+>On the planet they start with one island, an island that also is the home of the volcano **Olympia** that holds the golden doors to the eternal plane that is their own home.
 One by one they forms races, animals and all entities that are needed in a ecosystem, entities that can worship them and give them more powers.
