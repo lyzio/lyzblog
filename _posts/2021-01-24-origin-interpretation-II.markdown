@@ -5,7 +5,7 @@ date:   2021-01-24 13:37:31 +0100
 thumbnail:
 ---
 
-# A extended interpretation of the Origin
+# An extended interpretation of the Origin
 
 After sitting a few nights in front of the fire reading tales of the ancient Greece. I have now expanded the short origin to include quite a lot more information that I later can build upon. I believe that even though i want it to be as easy to remember as possible, as short and practical as possible it still need to give some form av answer to the basic questions.
 
