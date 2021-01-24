@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Origin of Thurian, interpretation II"
-date:   2021-01-24 13:37:71 +0100
+date:   2021-01-24 13:37:31 +0100
 thumbnail:
 ---
 
